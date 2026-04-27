@@ -35,18 +35,16 @@ The released dataset follows an ImageFolder-style structure:
 ```text
 AASL_WMIO_v1.0.0/
 ├── train/
-│   ├── class_01/
+│   ├── <class_name_1>/
 │   │   ├── image_0001.png
 │   │   └── ...
-│   ├── class_02/
-│   └── ...
-├── valid/
-│   ├── class_01/
-│   │   ├── image_0001.png
+│   ├── <class_name_2>/
 │   │   └── ...
-│   ├── class_02/
 │   └── ...
-└── metadata/
-    ├── classes.txt
-    ├── split_summary.csv
-    └── checksums_sha256.txt
+└── valid/
+    ├── <class_name_1>/
+    │   ├── image_0001.png
+    │   └── ...
+    ├── <class_name_2>/
+    │   └── ...
+    └── ...
