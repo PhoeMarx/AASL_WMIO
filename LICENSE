@@ -1,0 +1,33 @@
+Creative Commons Attribution 4.0 International Public License
+
+Dataset: AASL_WMIO
+Full name: Arabic Alphabets Sign Language Wall-Mediated Indirect Observation Dataset
+
+Copyright (c) 2026 PhoeMarx and contributors
+
+This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to:
+- Share: copy and redistribute the material in any medium or format.
+- Adapt: remix, transform, and build upon the material for any purpose, including academic, non-commercial, and commercial use.
+
+Under the following terms:
+- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- No additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything permitted by this license.
+
+Recommended attribution format:
+
+AASL_WMIO: Arabic Alphabets Sign Language Wall-Mediated Indirect Observation Dataset, PhoeMarx and contributors, 2026. Licensed under CC BY 4.0.
+
+If you use this dataset in academic work, please cite the associated paper:
+
+SCISA-Net: Scene-Constrained Inverse-to-Subband Attention for Semantic Inference from Wall-Mediated Indirect Observations.
+
+License URL:
+https://creativecommons.org/licenses/by/4.0/
+
+Important note:
+This repository releases the wall-mediated indirect observation images generated for the AASL_WMIO dataset. The original RGB Arabic Alphabets Sign Language dataset is not included in this repository and should be cited according to its own license and citation requirements.
+
+Disclaimer:
+The dataset is provided "as is", without warranties or guarantees of any kind. Users are responsible for ensuring that their use of the dataset complies with applicable laws, institutional policies, and the license terms of any upstream source datasets.
